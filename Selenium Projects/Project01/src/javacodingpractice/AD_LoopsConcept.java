@@ -1,5 +1,7 @@
 package javacodingpractice;
 
+//watch video: https://youtu.be/zvbVyn5X6Ac
+
 public class AD_LoopsConcept {
 
 	public static void main(String[] args) 
