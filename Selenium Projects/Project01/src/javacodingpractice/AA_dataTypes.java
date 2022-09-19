@@ -1,5 +1,7 @@
 package javacodingpractice;
 
+// watch video: https://youtu.be/Wm0KeM90bUo
+
 public class AA_dataTypes {
 
 	public static void main(String[] args) 
@@ -17,7 +19,8 @@ public class AA_dataTypes {
 		boolean b2 = false;
 // 5. String. is a class. not a data type but can be used as data type for string values
 		// it should be written in double quotes
-		String s = "Hello world";
+		String s = "Primary";
+		System.out.println(s);
 	}
 
 }

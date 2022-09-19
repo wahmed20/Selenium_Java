@@ -1,5 +1,7 @@
 package javacodingpractice;
 
+// watch video: https://youtu.be/81goXaXnopE
+
 public class AB_StringConcatenation {
 
 	public static void main(String[] args) 

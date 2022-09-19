@@ -1,5 +1,7 @@
 package javacodingpractice;
 
+// watch video: https://youtu.be/81goXaXnopE
+
 public class AC_ifStatementComparison {
 
 	public static void main(String[] args) 
